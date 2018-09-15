@@ -7,12 +7,9 @@
 1. Deploy serverless applications
 
 #### Security 26%
-1. Make authenticated calls to AWS services
+1. Make authenticated calls to AWS services [IAM](iam.md)
 1. Implement encryption using AWS services
-1. Implement application authentication and authorization 
-
-[IAM](iam.md)
-[Cognito](cognito.md)
+1. Implement application authentication and authorization [Cognito](cognito.md)
 
 #### Development with AWS Services 30%
 1. Write code for serverless applications
