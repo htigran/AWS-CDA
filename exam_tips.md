@@ -10,3 +10,8 @@
   * Syncs user data for a seamless experience across your devices
   * Cognito is the AWS recommended approach for Web ID Federation particularly for mobile apps
   
+## Cognito
+
+* Cognito uses User Pools to manage user sign-up and sign-in directly or via Web Identity Providers(Google, Facebook.)
+* Cognito acts as an Identity broker, handling all interaction with Web Identity Providers.
+* Cognito uses Push Synchronization to send a silent push notification of user data updates to multiple device types associated with a user ID.
