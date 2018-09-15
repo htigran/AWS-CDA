@@ -12,6 +12,7 @@
 1. Implement application authentication and authorization 
 
 [IAM](iam.md)
+[Cognito](cognito.md)
 
 #### Development with AWS Services 30%
 1. Write code for serverless applications
