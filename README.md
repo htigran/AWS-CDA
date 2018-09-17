@@ -1,7 +1,7 @@
 # AWS-CDA
 
 #### Deployment 22%
-1. Deploy written code in AWS using existing CI/CD pipelines, processes and patterns
+1. Deploy written code in AWS using existing CI/CD pipelines, processes and patterns [CICD](cicd.md)
 1. Deploy applications using Elastic Beanstalk
 1. Prepare the application deployment packagte to be deployed to AWS
 1. Deploy serverless applications
