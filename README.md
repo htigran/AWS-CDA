@@ -8,7 +8,7 @@
 
 #### Security 26%
 1. Make authenticated calls to AWS services [IAM](iam.md)
-1. Implement encryption using AWS services
+1. Implement encryption using AWS services [KMS](kms.mkd)
 1. Implement application authentication and authorization [Cognito](cognito.md)
 
 #### Development with AWS Services 30%
