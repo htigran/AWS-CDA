@@ -22,6 +22,7 @@
 1. Impleent application design into application code
 	* [DynamoDB](components/dynamo_db.md)
 	* [SNS](components/sns.md)
+	* [SQS](components/sqs.md)
 1. Write code that interacts with AWS services by using APIs, SDKs, and AWS CLI
 
 #### Refactoring 10%
