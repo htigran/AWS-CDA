@@ -19,9 +19,9 @@
 * deletion policy can be specified, and snapshots can be taken before deletion
 * stack can be modified after creation
 * stacks can be created in VPC
-Limits
-* there are no limits on number of templates
-* Template, parameters, output and resource description are limited to 4096 characters
-* you can have 60 parameters and 60 outputs in a template
-* Each cloudformation account is limited to 20 stacks. Can be increased by contacting AWS via form
-* cloud formation access point url https://cloudformation..amazonaws.com
+* Limits
+	* there are no limits on number of templates
+	* Template, parameters, output and resource description are limited to 4096 characters
+	* you can have 60 parameters and 60 outputs in a template
+	* Each cloudformation account is limited to 20 stacks. Can be increased by contacting AWS via form
+	* cloud formation access point url https://cloudformation..amazonaws.com
