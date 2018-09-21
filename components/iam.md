@@ -1,9 +1,18 @@
 # IAM
 ## Identitiy Access Management
 
-Essentially, IAM allows you to manage users and their level of access to the AWS Console. It is important to understand IAM and how it works, both for the exam and for administrating a company's AWS account in real life.
-
+IAM allows you to manage users and their level of access to the AWS Resources.
 * Centralized control of you AWS account
+* Consists of the following
+	* Users
+	* Groups (A way to group our users and apply polices to them collectively)
+	* Roles
+	* Policy Documents
+* IAM is universal. It does not aplly to regions at this time.
+* The "root account" is simply the account created when first setup your AWS account. It has complete Admin access.
+
+
+
 * Shared Access to your AWS account
 * Granular Permissions
 * Identitiy Federation (including Active Directory, Facebook, Linkedin, etc.)
