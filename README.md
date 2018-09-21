@@ -21,6 +21,7 @@
 1. Translate functional requirements into application design
 1. Impleent application design into application code
 	* [DynamoDB](components/dynamo_db.md)
+	* [SNS](components/sns.md)
 1. Write code that interacts with AWS services by using APIs, SDKs, and AWS CLI
 
 #### Refactoring 10%
